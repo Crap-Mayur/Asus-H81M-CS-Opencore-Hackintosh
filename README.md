@@ -1,5 +1,5 @@
-# OpenCore EFI for AMD Athlon Hackintosh
-![Asus AM1M-A BigSur](https://i.imgur.com/rvNA8GW.png)
+# OpenCore EFI for ASUS H81M-CS
+![Asus H81M-CS BigSur](https://i.imgur.com/rvNA8GW.png)
 
 ## GEEKBENCH 6 Score
 ![GEEKBENCH 6 Score](https://i.imgur.com/YCRQlnJ.png)
