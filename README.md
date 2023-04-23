@@ -2,7 +2,7 @@
 ![Asus AM1M-A BigSur](https://i.imgur.com/rvNA8GW.png)
 
 ## GEEKBENCH 6 Score
-!(https://i.imgur.com/YCRQlnJ.png)
+![GEEKBENCH 6 Score](https://i.imgur.com/YCRQlnJ.png)
 ## Verified Specification
 
 | **Component**    | **Model**                                  |
